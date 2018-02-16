@@ -1,21 +1,9 @@
 PHP Yandex API
 ============================
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nixsolutions/yandex-php-library?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+## 安裝
 
-[![Build Status](https://secure.travis-ci.org/nixsolutions/yandex-php-library.png?branch=master)](https://travis-ci.org/nixsolutions/yandex-php-library)
-[![Latest Stable Version](https://poser.pugx.org/nixsolutions/yandex-php-library/v/stable.png)](https://packagist.org/packages/nixsolutions/yandex-php-library)
-[![Total Downloads](https://poser.pugx.org/nixsolutions/yandex-php-library/downloads.png)](https://packagist.org/packages/nixsolutions/yandex-php-library)
-
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/nixsolutions/yandex-php-library/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/nixsolutions/yandex-php-library/?branch=master)
-[![Coverage Status](https://coveralls.io/repos/nixsolutions/yandex-php-library/badge.png)](https://coveralls.io/r/nixsolutions/yandex-php-library)
-[![Dependency Status](https://www.versioneye.com/user/projects/53a1549983add72cb9000014/badge.svg?style=flat)](https://www.versioneye.com/user/projects/53a1549983add72cb9000014)
-
-[![License](https://poser.pugx.org/nixsolutions/yandex-php-library/license.svg)](https://packagist.org/packages/nixsolutions/yandex-php-library)
-
-## Установка
-
-### Версии
+### 版本
 
 В библиотеке для отправки запросов к API используется Guzzle. Причем следует иметь в виду что вплоть до 0.4.1 
 включительно использовался [Guzzle 3](https://github.com/guzzle/guzzle3) и соответственно поддерживался php 5.3.
